@@ -12,8 +12,7 @@ This static to-do list app relies on fundamental web technologies—HTML, CSS, a
 ## Features
 - Add tasks
 - Delete tasks
-- Tasks stored in MongoDB
-- Backend API using Express
+- Tasks stored localStorage
 
 ## Project Structure
 
