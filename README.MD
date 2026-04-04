@@ -1,4 +1,4 @@
-# Static To-Do List App
+## Static To-Do List App
 
 This is a static stack To-Do List application.
 
@@ -15,13 +15,14 @@ This static to-do list app relies on fundamental web technologies—HTML, CSS, a
 - Tasks stored in localStorage
 
 ## Project Structure
-
+```text
 To_Do_List
 │
 └── frontend
     ├── index.html
     ├── script.js
     ├── style.css
+```
 
 ## How to Run
 
