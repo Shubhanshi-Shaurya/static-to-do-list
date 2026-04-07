@@ -31,5 +31,4 @@ To_Do_List
 
 ---
 
-## Author
-Shubhanshi Shaurya
+
